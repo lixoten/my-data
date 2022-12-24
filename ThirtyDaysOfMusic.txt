@@ -1,0 +1,239 @@
+dayName = R.string.day_1,  
+name = "Dark Side Of The Moon",  
+year = 1973,  
+artist = "Pink Floyd",  
+cover = R.drawable.dark_side_of_the_moon,  
+description = "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. The album was primarily developed during live performances, and the band premiered an early version of the suite several months before recording began.",  
+genres = "Genres, Rock, Progressive rock"  
+  
+dayName = R.string.day_2,  
+name = "Off the Wall",  
+year = 1979,  
+artist = "Michael Jackson",  
+cover  = R.drawable.off_the_wall,  
+description = "Off the Wall is the fifth solo studio album by American singer Michael Jackson, released on August 10, 1979, by Epic Records.",  
+genres = "Disco, Funk, Pop, R&B"  
+  
+dayName = R.string.day_3,  
+name = "The Stranger",  
+year = 1977,  
+artist = "Billy Joel",  
+cover = R.drawable.the_stranger,  
+description = "The Stranger is the fifth studio album by American singer Billy Joel, released in September 1977 by Columbia Records. It was the first of Joel's albums to be produced by Phil Ramone, with whom he would work for five subsequent albums.",  
+genres = "Rock, Pop music, Pop rock, Soft rock"  
+  
+dayName = R.string.day_4,  
+name = "The Cars",  
+year = 1978,  
+artist = "The Cars",  
+cover = R.drawable.the_cars,  
+description = "The Cars is the debut studio album by American rock band the Cars, released on June 6, 1978, by Elektra Records. Produced by Roy Thomas Baker, the album spawned the singles \"Just What I Needed\", \"My Best Friend's Girl\", and \"Good Times Roll\".",  
+genres = "New, Wavepower, Popsynth-rock"  
+  
+dayName = R.string.day_5,  
+name = "Tonight’s the Night",  
+year = 1975,  
+artist = "Neil Young",  
+cover = R.drawable.neil_young_ttn,  
+description = "Tonight's the Night is the sixth studio album by Canadian / American songwriter Neil Young. It was recorded in August–September 1973, mostly on August 26, but its release was delayed until June 1975. It peaked at No. 25 on the Billboard 200.",  
+genres = "Rock, Folk rock, Country rock, Blues rock"  
+  
+dayName = R.string.day_6,  
+name = "Harry's House",  
+year = 2022,  
+artist = "Harry Styles",  
+cover = R.drawable.harry_houses,  
+description = "Harry's House is the third studio album by English singer and songwriter Harry Styles, released on 20 May 2022 by Columbia Records and Erskine. The album was largely written and recorded during 2020 and 2021 and has been noted as Styles' most introspective work.",  
+genres = "Funk, Contemporary R&B, Pop rock, Synth-pop"  
+  
+dayName = R.string.day_7,  
+name = "Like A Virgin",  
+year = 1984,  
+artist = "Madonna",  
+cover = R.drawable.like_a_virgin,  
+description = "Like a Virgin is the second studio album by American singer and songwriter Madonna, released on November 12, 1984, by Sire Records. Following the success of her self-titled debut album, Madonna wanted to become the record producer of her next album.",  
+genres = "Pop music, Popular music, Dance music, Dance-pop, Pop rock, New wave, Synth-pop"  
+  
+dayName = R.string.day_8,  
+name = "Ride The Lightning",  
+year = 1984,  
+artist = "Metallica",  
+cover = R.drawable.ridetl,  
+description = "Ride the Lightning is the second studio album by American heavy metal band Metallica, released on July 27, 1984, by the independent record label Megaforce Records. The album was recorded in three weeks with producer Flemming Rasmussen at Sweet Silence Studios in Copenhagen, Denmark.",  
+genres = "Heavy metal, Thrash metal, Speed metal"  
+  
+dayName = R.string.day_9,  
+name = "Pyromania",  
+year = 1983,  
+artist = "Def Leppard",  
+cover = R.drawable.pyromania,  
+description = "Pyromania is the third studio album by English rock band Def Leppard, released on 20 January 1983 through Vertigo Records in UK and Europe and through Mercury Records in the US.",  
+genres = "Rock, Heavy metal, Hard rock, New wave of British heavy metal, Glam metal, Pop metal"  
+  
+dayName = R.string.day_10,  
+name = "Superunknown – Soundgarden (1994)",  
+year = 1994,  
+artist = "Soundgarden",  
+cover = R.drawable.superunknown,  
+description = "Superunknown is the fourth studio album by American rock band Soundgarden, released on March 8, 1994, through A&M Records. It is the band's second album with bassist Ben Shepherd, and features new producer Michael Beinhorn.",  
+genres = "Grunge, Alternative rock, Heavy metal, Hard rock, Alternative metal, Psychedelic rock, Stoner rock"  
+  
+dayName = R.string.day_11,  
+name = "CrazySexyCool",  
+year = 1994,  
+artist = "TLC",  
+cover = R.drawable.crazy_sexy_cool,  
+description = "CrazySexyCool is the second studio album by American girl group TLC, released on November 15, 1994, by LaFace and Arista Records. Following the group's record deal, they released their debut album Ooooooohhh... On the TLC Tip in 1992 to positive reviews and commercial success.",  
+genres = "Hip hop music, Rhythm and blues"  
+  
+dayName = R.string.day_12,  
+name = "Dark Side Of The Moon",  
+year = 1973,  
+artist = "Pink Floyd",  
+cover = R.drawable.dark_side_of_the_moon,  
+description = "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. The album was primarily developed during live performances, and the band premiered an early version of the suite several months before recording began.",  
+genres = "Genres, Rock, Progressive rock"  
+  
+dayName = R.string.day_13,  
+name = "Off the Wall",  
+year = 1979,  
+artist = "Michael Jackson",  
+cover = R.drawable.off_the_wall,  
+description = "Off the Wall is the fifth solo studio album by American singer Michael Jackson, released on August 10, 1979, by Epic Records.",  
+genres = "Disco, Funk, Pop, R&B"  
+  
+dayName = R.string.day_14,  
+name = "The Stranger",  
+year = 1977,  
+artist = "Billy Joel",  
+cover = R.drawable.the_stranger,  
+description = "The Stranger is the fifth studio album by American singer Billy Joel, released in September 1977 by Columbia Records. It was the first of Joel's albums to be produced by Phil Ramone, with whom he would work for five subsequent albums.",  
+genres = "Rock, Pop music, Pop rock, Soft rock"  
+  
+dayName = R.string.day_15,  
+name = "The Cars",  
+year = 1978,  
+artist = "The Cars",  
+cover = R.drawable.the_cars,  
+description = "The Cars is the debut studio album by American rock band the Cars, released on June 6, 1978, by Elektra Records. Produced by Roy Thomas Baker, the album spawned the singles \"Just What I Needed\", \"My Best Friend's Girl\", and \"Good Times Roll\".",  
+genres = "New, Wavepower, Popsynth-rock"  
+  
+dayName = R.string.day_16,  
+name = "Tonight’s the Night",  
+year = 1975,  
+artist = "Neil Young",  
+cover = R.drawable.neil_young_ttn,  
+description = "Tonight's the Night is the sixth studio album by Canadian / American songwriter Neil Young. It was recorded in August–September 1973, mostly on August 26, but its release was delayed until June 1975. It peaked at No. 25 on the Billboard 200.",  
+genres = "Rock, Folk rock, Country rock, Blues rock"  
+  
+dayName = R.string.day_17,  
+name = "Harry's House",  
+year = 2022,  
+artist = "Harry Styles",  
+cover = R.drawable.harry_houses,  
+description = "Harry's House is the third studio album by English singer and songwriter Harry Styles, released on 20 May 2022 by Columbia Records and Erskine. The album was largely written and recorded during 2020 and 2021 and has been noted as Styles' most introspective work.",  
+genres = "Funk, Contemporary R&B, Pop rock, Synth-pop"  
+  
+dayName = R.string.day_18,  
+name = "Like A Virgin",  
+year = 1984,  
+artist = "Madonna",  
+cover = R.drawable.like_a_virgin,  
+description = "Like a Virgin is the second studio album by American singer and songwriter Madonna, released on November 12, 1984, by Sire Records. Following the success of her self-titled debut album, Madonna wanted to become the record producer of her next album.",  
+genres = "Pop music, Popular music, Dance music, Dance-pop, Pop rock, New wave, Synth-pop"  
+  
+dayName = R.string.day_19,  
+name = "Ride The Lightning",  
+year = 1984,  
+artist = "Metallica",  
+cover = R.drawable.ridetl,  
+description = "Ride the Lightning is the second studio album by American heavy metal band Metallica, released on July 27, 1984, by the independent record label Megaforce Records. The album was recorded in three weeks with producer Flemming Rasmussen at Sweet Silence Studios in Copenhagen, Denmark.",  
+genres = "Heavy metal, Thrash metal, Speed metal"  
+  
+dayName = R.string.day_20,  
+name = "Pyromania",  
+year = 1983,  
+artist = "Def Leppard",  
+cover = R.drawable.pyromania,  
+description = "Pyromania is the third studio album by English rock band Def Leppard, released on 20 January 1983 through Vertigo Records in UK and Europe and through Mercury Records in the US.",  
+genres = "Rock, Heavy metal, Hard rock, New wave of British heavy metal, Glam metal, Pop metal"  
+  
+dayName = R.string.day_21,  
+name = "Superunknown – Soundgarden (1994)",  
+year = 1994,  
+artist = "Soundgarden",  
+cover = R.drawable.superunknown,  
+description = "Superunknown is the fourth studio album by American rock band Soundgarden, released on March 8, 1994, through A&M Records. It is the band's second album with bassist Ben Shepherd, and features new producer Michael Beinhorn.",  
+genres = "Grunge, Alternative rock, Heavy metal, Hard rock, Alternative metal, Psychedelic rock, Stoner rock"  
+  
+dayName = R.string.day_22,  
+name = "CrazySexyCool",  
+year = 1994,  
+artist = "TLC",  
+cover = R.drawable.crazy_sexy_cool,  
+description = "CrazySexyCool is the second studio album by American girl group TLC, released on November 15, 1994, by LaFace and Arista Records. Following the group's record deal, they released their debut album Ooooooohhh... On the TLC Tip in 1992 to positive reviews and commercial success.",  
+genres = "Hip hop music, Rhythm and blues"  
+  
+dayName = R.string.day_23,  
+name = "Off the Wall",  
+year = 1979,  
+artist = "Michael Jackson",  
+cover = R.drawable.off_the_wall,  
+description = "Off the Wall is the fifth solo studio album by American singer Michael Jackson, released on August 10, 1979, by Epic Records.",  
+genres = "Disco, Funk, Pop, R&B"  
+  
+dayName = R.string.day_24,  
+name = "The Stranger",  
+year = 1977,  
+artist = "Billy Joel",  
+cover = R.drawable.the_stranger,  
+description = "The Stranger is the fifth studio album by American singer Billy Joel, released in September 1977 by Columbia Records. It was the first of Joel's albums to be produced by Phil Ramone, with whom he would work for five subsequent albums.",  
+genres = "Rock, Pop music, Pop rock, Soft rock"  
+  
+dayName = R.string.day_25,  
+name = "The Cars",  
+year = 1978,  
+artist = "The Cars",  
+cover = R.drawable.the_cars,  
+description = "The Cars is the debut studio album by American rock band the Cars, released on June 6, 1978, by Elektra Records. Produced by Roy Thomas Baker, the album spawned the singles \"Just What I Needed\", \"My Best Friend's Girl\", and \"Good Times Roll\".",  
+genres = "New, Wavepower, Popsynth-rock"  
+  
+dayName = R.string.day_26,  
+name = "Tonight’s the Night",  
+year = 1975,  
+artist = "Neil Young",  
+cover = R.drawable.neil_young_ttn,  
+description = "Tonight's the Night is the sixth studio album by Canadian / American songwriter Neil Young. It was recorded in August–September 1973, mostly on August 26, but its release was delayed until June 1975. It peaked at No. 25 on the Billboard 200.",  
+genres = "Rock, Folk rock, Country rock, Blues rock"  
+  
+dayName = R.string.day_27,  
+name = "Harry's House",  
+year = 2022,  
+artist = "Harry Styles",  
+cover = R.drawable.harry_houses,  
+description = "Harry's House is the third studio album by English singer and songwriter Harry Styles, released on 20 May 2022 by Columbia Records and Erskine. The album was largely written and recorded during 2020 and 2021 and has been noted as Styles' most introspective work.",  
+genres = "Funk, Contemporary R&B, Pop rock, Synth-pop"  
+  
+dayName = R.string.day_28,  
+name = "Like A Virgin",  
+year = 1984,  
+artist = "Madonna",  
+cover = R.drawable.like_a_virgin,  
+description = "Like a Virgin is the second studio album by American singer and songwriter Madonna, released on November 12, 1984, by Sire Records. Following the success of her self-titled debut album, Madonna wanted to become the record producer of her next album.",  
+genres = "Pop music, Popular music, Dance music, Dance-pop, Pop rock, New wave, Synth-pop"  
+  
+dayName = R.string.day_29,  
+name = "Ride The Lightning",  
+year = 1984,  
+artist = "Metallica",  
+cover = R.drawable.ridetl,  
+description = "Ride the Lightning is the second studio album by American heavy metal band Metallica, released on July 27, 1984, by the independent record label Megaforce Records. The album was recorded in three weeks with producer Flemming Rasmussen at Sweet Silence Studios in Copenhagen, Denmark.",  
+genres = "Heavy metal, Thrash metal, Speed metal"  
+  
+dayName = R.string.day_30,  
+name = "Pyromania",  
+year = 1983,  
+artist = "Def Leppard",  
+cover = R.drawable.pyromania,  
+description = "Pyromania is the third studio album by English rock band Def Leppard, released on 20 January 1983 through Vertigo Records in UK and Europe and through Mercury Records in the US.",  
+genres = "Rock, Heavy metal, Hard rock, New wave of British heavy metal, Glam metal, Pop metal"
